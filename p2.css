@@ -1,0 +1,42 @@
+
+
+body{
+	background: url("http://cdn.mysitemyway.com/etc-mysitemyway/backgrounds/legacy-previews/backgrounds/watercolor-grunge/watercolor-grunge-000008-pink-over-faded-blue.jpg");
+	background-attachment: fixed;
+/* 	opacity: 0.5; */
+	/*filter: alpha(opacity) */
+	
+}
+
+h1{
+	color: white;
+	text-decoration: underline;
+}
+
+h3{
+	color: white;
+}
+
+
+p{
+	color: white;
+}
+
+
+button{
+	
+background-color: #04B486;
+    border: none;
+    color: white;
+    padding: 20px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 8px;
+}
+
+alert{
+	background-color:blue;
+	color: white;
+}

@@ -1,1 +1,0 @@
-# 2016_SIP-CapitalOne_DC_GetWoke
